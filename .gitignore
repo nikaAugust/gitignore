@@ -1,4 +1,7 @@
-*_old
-*_backup
+*.*_old
+*.html_old
+*.*_backup
+img/*.png_backup
 Thumbs.db
 .DS_Store
+tmp/
